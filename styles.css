@@ -13,6 +13,7 @@ body {
 }
 
 .content {
+    margin-top: 30px;
     padding: 50px;
     color: #333; /* Ensure text is visible */
 }
